@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Howdy
+My name is Paris Estes, I am working to get into the field. While I apply I am doing a lot of side projects to qualm the need to code.
+
 # Current projects
 - A spotify Api program to get a personalized 'radio' using a backlog playlist
 

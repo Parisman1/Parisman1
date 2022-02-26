@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Current projects 
+a spotify Api program to get a personalized 'radio' using a backlog playlist
+
+Rock Paper Scissors AI 
+
+# Currently Learning
+
+Im learning python through personal projects and am learning C# through Unity while making a game with friends
+

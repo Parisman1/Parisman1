@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Parisman1/Parisman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Current projects 
+# ✨ Current projects ✨
 a spotify Api program to get a personalized 'radio' using a backlog playlist
 
 Rock Paper Scissors AI 
 
-# Currently Learning
+# ✨ Currently Learning ✨
 
 Im learning python through personal projects and am learning C# through Unity while making a game with friends
 

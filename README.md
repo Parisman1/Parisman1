@@ -19,7 +19,7 @@ My name is Paris Estes, I am working to get into the field. While I apply I am d
 # Current projects
 - A spotify Api program to get a personalized 'radio' using a backlog playlist
 
-- Creating a personal server using raspberypi 4 to run programs i load onto it at a specific time. 
+- Creating a personal server using a raspberypi 4 and Python to run programs I load onto it at a specific time. 
 
 # Currently Learning
 

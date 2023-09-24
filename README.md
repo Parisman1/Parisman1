@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hello!
-My name is Paris Estes, I am working to get into the field. While I apply I am doing a lot of side projects to qualm the want to code.
+My name is Paris Estes, I am a Software Engineer at LM
 
 # Current projects
-- A spotify Api program to get a personalized 'radio' using a backlog playlist
+- A Spotify Api program to get a personalized 'radio' using a backlog playlist
 
-- Creating a personal server using a raspberypi 4 and Python to run programs I load onto it at a specific time. 
+- Creating a personal server using a raspberry pi 4 and Python to run programs I load onto it at a specific time. 
 
 # Currently Learning
 
-Im learning python through personal projects and am learning C# through Unity while making a game with friends
-
+I utilize Python the most but am also interested in Go.

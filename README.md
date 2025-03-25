@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 My name is Paris Estes, I am a Software Engineer at LM
 
 # Current projects
-- A Spotify Api program to get a personalized 'radio' using a backlog playlist
-
-- Creating a personal server using a raspberry pi 4 and Python to run programs I load onto it at a specific time. 
+- Learning GoLang by developing a custom Home Sterio System utilizing DDS and raspberry pi's
 
 # Currently Learning
 
-I utilize Python the most but am also interested in Go.
+GoLang and Unreal Engine 5 based C++
